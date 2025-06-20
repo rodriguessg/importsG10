@@ -178,7 +178,7 @@ export default function Component() {
                 <Card className="bg-white border-gray-200 hover:shadow-lg transition-shadow">
                   <CardHeader>
                     <Image
-                      src="/placeholder.svg?height=200&width=200"
+                      src="/61bK6PMOC3L.jpg?height=200&width=200"
                       width="200"
                       height="200"
                       alt="iPhone 15 Pro"
