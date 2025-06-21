@@ -75,7 +75,7 @@ export default function Component() {
               </div>
               <div className="flex items-center justify-center">
                 <Image
-                  src="/jpg?height=500&width=400"
+                  src="/61bK6PMOC3L.jpg?height=500&width=400"
                   width="400"
                   height="500"
                   alt="iPhone Collection"
