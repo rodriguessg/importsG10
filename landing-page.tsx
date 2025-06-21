@@ -566,7 +566,7 @@ export default function Component() {
                   <CardTitle>Localização</CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-gray-600">São Paulo, SP</p>
+                  <p className="text-gray-600">Rio de Janeiro, RJ</p>
                   <p className="text-sm text-gray-500">Atendemos todo o Brasil</p>
                 </CardContent>
               </Card>
